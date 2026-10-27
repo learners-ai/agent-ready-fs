@@ -1,0 +1,24 @@
+{
+  "name": "agent-ready-fs",
+  "version": "0.1.0",
+  "description": "Checks whether a bank, credit union, insurer, broker or wealth firm's website can be found, read and used by AI agents, using the open AgentReady spec plus financial-services checks. Returns a scorecard, a ranked fix list, a draft llms.txt and a bot-policy memo for compliance and security.",
+  "icon": "assets/icon.png",
+  "author": {
+    "name": "Learners.ai",
+    "url": "https://www.learners.ai"
+  },
+  "homepage": "https://www.learners.ai",
+  "repository": "https://github.com/learners-ai/agent-ready-fs",
+  "license": "MIT",
+  "keywords": [
+    "agent-readiness",
+    "agentready",
+    "financial-services",
+    "banking",
+    "insurance",
+    "wealth-management",
+    "llms-txt",
+    "robots-txt",
+    "ai-agents"
+  ]
+}

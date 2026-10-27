@@ -1,0 +1,16 @@
+{
+  "name": "learners-ai",
+  "description": "Free Claude plugins from Learners.ai for financial-services teams.",
+  "owner": {
+    "name": "Learners.ai",
+    "url": "https://www.learners.ai"
+  },
+  "plugins": [
+    {
+      "name": "agent-ready-fs",
+      "source": "./",
+      "description": "Agent-readiness check for financial-services websites (AgentReady v2.0 + banking, insurance and wealth checks).",
+      "version": "0.1.0"
+    }
+  ]
+}
